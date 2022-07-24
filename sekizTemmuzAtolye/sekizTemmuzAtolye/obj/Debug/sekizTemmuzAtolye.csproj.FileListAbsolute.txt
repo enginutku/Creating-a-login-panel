@@ -1,0 +1,12 @@
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\bin\Debug\sekizTemmuzAtolye.exe.config
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\bin\Debug\sekizTemmuzAtolye.exe
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\bin\Debug\sekizTemmuzAtolye.pdb
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\obj\Debug\sekizTemmuzAtolye.csproj.AssemblyReference.cache
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\obj\Debug\sekizTemmuzAtolye.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\obj\Debug\sekizTemmuzAtolye.Form1.resources
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\obj\Debug\sekizTemmuzAtolye.Properties.Resources.resources
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\obj\Debug\sekizTemmuzAtolye.csproj.GenerateResource.cache
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\obj\Debug\sekizTemmuzAtolye.csproj.CoreCompileInputs.cache
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\obj\Debug\sekizTemmuzAtolye.exe
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\obj\Debug\sekizTemmuzAtolye.pdb
+C:\Users\Utku\source\repos\sekizTemmuzAtolye\sekizTemmuzAtolye\obj\Debug\sekizTemmuzAtolye.Form2.resources
